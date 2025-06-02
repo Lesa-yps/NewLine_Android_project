@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314710902721",
+    "project_id": "newline-e78b4",
+    "storage_bucket": "newline-e78b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314710902721:android:8023cf619e6b2cf10ed140",
+        "android_client_info": {
+          "package_name": "com.example.newline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NS5Vkuenb19x_1n3mkQFdIoZd25zmto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

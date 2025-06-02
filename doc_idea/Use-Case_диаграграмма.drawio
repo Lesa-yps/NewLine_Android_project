@@ -1,0 +1,104 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="VtmHv96i5wA-RLcBsSub">
+    <mxGraphModel dx="1295" dy="878" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;приложение&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="448" y="204" width="469" height="469" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="439" />
+              <mxPoint x="409" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="aSmrD-3UpMkZ6W-dr-7R-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6bpGgtbHboEOtNbbOvt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="G6bpGgtbHboEOtNbbOvt-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G6bpGgtbHboEOtNbbOvt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aSmrD-3UpMkZ6W-dr-7R-1" target="G6bpGgtbHboEOtNbbOvt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="439" />
+              <mxPoint x="410" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-1" value="&lt;b&gt;пользователь&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="263" y="373.5" width="60" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-5" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Авторизоваться&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510.5" y="246" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-6" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Выйти из аккаунта&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="289" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-7" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Добавить задачу&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-8" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Просмотреть все &lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;свои&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255)); color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt; текущие задачи&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="390" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-9" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Определить свою&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt; загруженность&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510.5" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aSmrD-3UpMkZ6W-dr-7R-10" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Получить анализ&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt; времени выполнения&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;задач (Cycle Time)&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="330" width="181" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="G6bpGgtbHboEOtNbbOvt-1" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Добавить категорию&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510.5" y="552" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G6bpGgtbHboEOtNbbOvt-2" value="&lt;div style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 16px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;Передвинуть задачу&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;(todo-&amp;gt;in_work-&amp;gt;done)&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="591" width="165" height="66" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
