@@ -54,18 +54,6 @@ class DatabaseServiceTest {
   assertEquals(testUser.email.toString(), foundUser?.email.toString())
  }
 
-// @Test // Используем аннотацию JUnit 4
-// fun find_user_by_ID() {
-//  // поиск пользователя по ID
-//  val foundUser = databaseService.getUserById(testUser.id)
-//
-//  // проверки, что пользователь найден и данные совпадают
-//  assertNotNull(foundUser)
-//  assertEquals(testUser.id, foundUser?.id)
-//  assertEquals(testUser.name, foundUser?.name)
-//  assertEquals(testUser.email.toString(), foundUser?.email.toString())
-// }
-
  @Test
  fun find_user_by_email() = runBlocking {
   // поиск пользователя по email
